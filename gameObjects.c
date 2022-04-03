@@ -1,10 +1,6 @@
 /*
-CMPT 125 Assignment 4 Game
-Author: Brianna Espena
-Student ID: 301433268
-SFU email: bke1@sfu.ca 
-Academic honesty statement: I hereby confirm that this is my own work and I have
-not violated any of SFU’s Code of Academic Integrity and Good Conduct (S10.01).
+Card Game
+Author: Brianna 
 Description: contains functions for the game that are used in the main.c
 */
 #include "gameObjects.h"
